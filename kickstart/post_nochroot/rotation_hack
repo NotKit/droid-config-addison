@@ -1,0 +1,1 @@
+sed -e "s/return allowed/return Orientation.All/" -i  $INSTALL_ROOT/usr/lib/qt5/qml/Sailfish/Silica/Page.qml
