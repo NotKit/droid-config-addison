@@ -14,3 +14,5 @@
 Provides: ofono-configs
 
 %include droid-configs-device/droid-configs.inc
+%include patterns/patterns-sailfish-device-adaptation-addison.inc
+%include patterns/patterns-sailfish-device-configuration-addison.inc
